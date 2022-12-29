@@ -22,7 +22,3 @@ In addition you can also use [this](https://github.com/rauenzi/BetterDiscordAddo
 
 ## How can I support this project?
 You can support me by following me on GitHub, putting a star on this repo or you can tip me using the button below
-
-<a href='https://ko-fi.com/Z8Z2GV3K4'>
-    <img style='height:40px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' alt='Buy Me a Coffee'/>
-</a>
